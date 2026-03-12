@@ -1,0 +1,2 @@
+source E:/Project/Environment X6 Sensor/Code/environment-x6-sensor/examples/esp32s3/esp-idf/build/gdbinit/symbols
+source E:/Project/Environment X6 Sensor/Code/environment-x6-sensor/examples/esp32s3/esp-idf/build/gdbinit/connect

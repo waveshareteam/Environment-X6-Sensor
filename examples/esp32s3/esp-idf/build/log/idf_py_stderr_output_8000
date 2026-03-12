@@ -1,0 +1,1 @@
+Command: cmake -G Ninja -DPYTHON_DEPS_CHECKED=1 -DPYTHON=F:\esp\v5.5.2\python_env\idf5.5_py3.11_env\Scripts\python.exe -DESP_PLATFORM=1 -DIDF_TARGET=esp32s3 -DCCACHE_ENABLE=0 E:\Project\Environment X6 Sensor\Code\environment-x6-sensor\examples\esp32s3\esp-idf
