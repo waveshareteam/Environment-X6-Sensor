@@ -5,8 +5,8 @@
 The iNose X6 is a high-precision environmental sensor capable of detecting formaldehyde (HCHO), total volatile organic compounds (TVOC), carbon monoxide (CO), air quality index (IAQ), temperature, and humidity.
 The sensor supports UART communication, LED control, sleep/wake functions, and is compatible with multiple platforms, including Arduino, ESP32, RP2040/RP2350, and Raspberry Pi.
 
-- [Purchase Link](https://www.waveshare.com/esp32-s3-touch-lcd-4.3c.htm)
-- [Documentation](https://docs.waveshare.com/ESP32-S3-Touch-LCD-4.3C)
+- [Purchase Link](https://www.waveshare.com/environment-x6-sensor.htm)
+- [Documentation](https://www.waveshare.com/wiki/Environment_X6_Sensor)
 
 ![Product Image](./assets/Product-1.webp)
 
