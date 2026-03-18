@@ -5,8 +5,8 @@
 iNose X6 是一款高精度环境传感器，可检测 甲醛 (HCHO)、总挥发性有机物 (TVOC)、一氧化碳 (CO)、空气质量指数 (IAQ)、温度和湿度。
 传感器支持 UART 通信，LED 控制，休眠/唤醒功能，并兼容多平台，包括 Arduino、ESP32、RP2040/RP2350 以及 树莓派。
 
-- [购买链接](https://www.waveshare.net/shop/ESP32-S3-Touch-LCD-4.3C.htm)
-- [产品文档](https://docs.waveshare.net/ESP32-S3-Touch-LCD-4.3C/)
+- [购买链接](https://www.waveshare.net/shop/Environment-X6-Sensor.htm)
+- [产品文档](https://www.waveshare.net/wiki/Environment_X6_Sensor)
 
 ![主图](./assets/Product-1.webp)
 
